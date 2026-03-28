@@ -36,9 +36,9 @@ This script helps fix that automatically.
 3. Review output and confirm changes
 
 Requirements
--Windows DNS Server
--PowerShell
--Administrator privileges
+- Windows DNS Server
+- PowerShell
+- Administrator privileges
 
 Full Guide  
 
